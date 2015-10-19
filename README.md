@@ -6,7 +6,7 @@ This [drat](http://dirk.eddelbuettel.com/code/drat.html) package repository prov
 
 ```{.r}
 # first add the repo
-drat::add("dmlc"}
+drat::add("dmlc")
 # either install just one or more given packages
 install.package("mxnet")     
 # or update already installed packages
