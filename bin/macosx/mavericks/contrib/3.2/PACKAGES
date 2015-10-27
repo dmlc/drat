@@ -4,4 +4,3 @@ Imports: methods, Rcpp (>= 0.11.1)
 Suggests: testthat
 LinkingTo: Rcpp
 License: BSD
-NeedsCompilation: yes
