@@ -8,7 +8,7 @@ This [drat](http://dirk.eddelbuettel.com/code/drat.html) package repository prov
 # first add the repo
 drat::add("dmlc")
 # either install just one or more given packages
-install.package("mxnet")     
+install.packages("mxnet_cpu")     
 # or update already installed packages
 update.packages()
 ```
