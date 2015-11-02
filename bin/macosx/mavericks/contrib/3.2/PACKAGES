@@ -1,0 +1,6 @@
+Package: mxnet_cpu
+Version: 0.5
+Imports: methods, Rcpp (>= 0.12.1), DiagrammeR, data.table, jsonlite, magrittr, stringr
+Suggests: testthat
+LinkingTo: Rcpp
+License: BSD
