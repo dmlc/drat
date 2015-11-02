@@ -1,6 +1,6 @@
-Package: mxnet_cpu
+Package: mxnet
 Version: 0.5
-Imports: methods, Rcpp (>= 0.11.1)
+Imports: methods, Rcpp (>= 0.12.1)
 Suggests: testthat
 LinkingTo: Rcpp
 License: BSD
