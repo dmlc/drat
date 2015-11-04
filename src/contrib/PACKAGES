@@ -1,7 +1,10 @@
 Package: mxnet
 Version: 0.5
-Imports: methods, Rcpp (>= 0.12.1)
-Suggests: testthat
+Imports: methods, Rcpp (>= 0.12.1), DiagrammeR, data.table, jsonlite,
+        magrittr, stringr
 LinkingTo: Rcpp
+Suggests: testthat, mlbench
 License: BSD
+MD5sum: c24c070cf431e86b0573cee15e4bd805
 NeedsCompilation: yes
+
