@@ -5,6 +5,6 @@ Imports: methods, Rcpp (>= 0.12.1), DiagrammeR, data.table, jsonlite,
 LinkingTo: Rcpp
 Suggests: testthat, mlbench
 License: BSD
-MD5sum: c24c070cf431e86b0573cee15e4bd805
+MD5sum: 008cab8f0cb51b675a21a09c1e97d5f7
 NeedsCompilation: yes
 
