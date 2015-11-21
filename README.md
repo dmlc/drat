@@ -2,6 +2,8 @@
 
 This [drat](http://dirk.eddelbuettel.com/code/drat.html) package repository provides R packages from DMLC code repositories.
 
+The packages are updated weekly.
+
 ### Usage
 
 ```{.r}
