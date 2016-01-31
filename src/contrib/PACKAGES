@@ -1,11 +1,11 @@
 Package: mxnet
 Version: 0.5
-Imports: methods, Rcpp (>= 0.12.1), DiagrammeR, data.table, jsonlite,
-        magrittr, stringr
+Imports: methods, Rcpp (>= 0.12.1), DiagrammeR (>= 0.8.1), data.table,
+        jsonlite, magrittr, stringr
 LinkingTo: Rcpp
-Suggests: testthat, mlbench
+Suggests: testthat, mlbench, knitr, rmarkdown, imager, roxygen2
 License: BSD
-MD5sum: 008cab8f0cb51b675a21a09c1e97d5f7
+MD5sum: b7f07917fbdaa5fe63af4b199ee56394
 NeedsCompilation: yes
 
 Package: xgboost
