@@ -1,8 +1,0 @@
-Package: mxnet
-Version: 0.5
-Imports: methods, Rcpp (>= 0.12.1), DiagrammeR, data.table, jsonlite,
-        magrittr, stringr
-LinkingTo: Rcpp
-Suggests: testthat, mlbench
-License: BSD
-
