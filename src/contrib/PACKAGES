@@ -17,5 +17,5 @@ Suggests: knitr, ggplot2 (>= 1.0.1), DiagrammeR (>= 0.8.1),
         Ckmeans.1d.dp (>= 3.3.1), vcd (>= 1.3), testthat, igraph (>=
         1.0.1)
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: fe3635740732a033aa4b91f9073348e3
+MD5sum: f0982afff240b002f0441beae9ed347a
 NeedsCompilation: yes
