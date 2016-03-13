@@ -1,13 +1,3 @@
-Package: mxnet
-Version: 0.5
-Imports: methods, Rcpp (>= 0.12.1), DiagrammeR (>= 0.8.1), data.table,
-        jsonlite, magrittr, stringr
-LinkingTo: Rcpp
-Suggests: testthat, mlbench, knitr, rmarkdown, imager, roxygen2
-License: BSD
-MD5sum: b7f07917fbdaa5fe63af4b199ee56394
-NeedsCompilation: yes
-
 Package: xgboost
 Version: 0.4-3
 Depends: R (>= 2.10)
@@ -17,5 +7,6 @@ Suggests: knitr, ggplot2 (>= 1.0.1), DiagrammeR (>= 0.8.1),
         Ckmeans.1d.dp (>= 3.3.1), vcd (>= 1.3), testthat, igraph (>=
         1.0.1)
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: f0982afff240b002f0441beae9ed347a
+MD5sum: 3427067736776118206794a1149018ed
 NeedsCompilation: yes
+
