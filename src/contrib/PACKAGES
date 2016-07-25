@@ -8,15 +8,14 @@ License: BSD
 MD5sum: 5fe607c473f880cd287e04d3738393a9
 NeedsCompilation: yes
 
-
 Package: xgboost
-Version: 0.4-3
+Version: 0.4-4
 Depends: R (>= 2.10)
 Imports: Matrix (>= 1.1-0), methods, data.table (>= 1.9.6), magrittr
         (>= 1.5), stringr (>= 0.6.2)
-Suggests: knitr, ggplot2 (>= 1.0.1), DiagrammeR (>= 0.8.1),
+Suggests: knitr, rmarkdown, ggplot2 (>= 1.0.1), DiagrammeR (>= 0.8.1),
         Ckmeans.1d.dp (>= 3.3.1), vcd (>= 1.3), testthat, igraph (>=
         1.0.1)
 License: Apache License (== 2.0) | file LICENSE
-MD5sum: 4fe457522ccb24bbe4eb154e1b90c4ec
+MD5sum: 157cbe5dda7d7e79df7862fb2358fa98
 NeedsCompilation: yes
